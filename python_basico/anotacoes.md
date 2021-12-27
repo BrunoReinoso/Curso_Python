@@ -33,3 +33,23 @@ A função <b>len()</b> retorna a quantidade de caracteres da string passada (le
 O Python possui várias funções built-in úteis. (olhar documentação da linguagem)
 
 <b>Try/Except</b> são interessantes em alguns casos.
+
+## Formatando valores com modificadores
+<b>:s</b> - strings</b> <br>
+<b>:d</b> - inteiros <br>
+<b>:f</b> - float <br>
+<b>:(caractere)(> ou < ou ^)(quantidade)(tipo)</b>
+* <b>></b> - add esquerda
+* <b><</b> - add direita
+* <b>^</b> - posiciona no centro <br>
+
+(Há funções semelhantes às opções abaixo.) <br>
+* Exemplos: <br> <b>print(f'{nome:#^50}')</b> irá posicionar o nome no centro e adicionar # na esquerda e na direita até completar 50 caracteres. <br>
+<b>nome_formatado = '{:#^50}'.format(nome)</b> fará algo semelhante.
+
+<br>
+Pode-se acessar o último valor de uma lista ou string se usarmos negativos, por exemplo: <b>texto[-1]</b> <br>
+Pode-se fatiar a string de acordo com o desejado fazendo algo como <b>texto[2:6]</b> que irá pegar do caractere 2 ao 5 pois o 6 não é incluído. <br>
+Pode-se pular caracteres usando <b>texto[0::2]</b> que irá do caractere 0 ao último pulando de 2 em 2. <br>
+Uma maneira interessante de inverter uma lista é fazer <b>lista = [ : : -1]</b>. <br>
+Algumas funções que podemos usar em listas são: <b>append, insert, pop, del, clear, extend, +, min, max e range. <b>
