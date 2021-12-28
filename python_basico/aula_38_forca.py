@@ -33,9 +33,8 @@ while chances > 0:
         if letra in letras_certas_digitadas:
             palavra_temporaria += letra
         else:
-            palavra_temporaria += '*'
+            palavra_temporaria += "*"
 
-    
     if palavra_temporaria == palavra_secreta:
         break
 
@@ -43,7 +42,9 @@ while chances > 0:
     print(f"A palavra temporária é: {palavra_temporaria}")
 
 if chances == 0:
-    print(f'Suas chances chegaram a {chances}! Você perdeu o jogo.')
-    print(f'A palavra secreta era {palavra_secreta}.')
+    print(f"Suas chances chegaram a {chances}! Você perdeu o jogo.")
+    print(f"A palavra secreta era {palavra_secreta}.")
 else:
-    print(f'Parabéns, você consegui acertar a palavra {palavra_secreta} com {chances} chance(s) restante(s)!')
+    print(
+        f"Parabéns, você consegui acertar a palavra {palavra_secreta} com {chances} chance(s) restante(s)!"
+    )

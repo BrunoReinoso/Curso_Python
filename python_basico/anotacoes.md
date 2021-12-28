@@ -1,10 +1,10 @@
 # Seção 2: Python Básico 
 
-Pep8 pede 2 espaços pra comentário do lado do código 
+Pep8 pede 2 espaços pra comentário do lado do código .
 
-Docstring é usado para documentação
+Docstring é usado para documentação.
 
-A função <b>type()</b> dá o tipo da variável	
+A função <b>type()</b> retorna o tipo da variável.	
 
 // divisão inteira <br>
 ** potência <br>
@@ -46,10 +46,33 @@ O Python possui várias funções built-in úteis. (olhar documentação da ling
 (Há funções semelhantes às opções abaixo.) <br>
 * Exemplos: <br> <b>print(f'{nome:#^50}')</b> irá posicionar o nome no centro e adicionar # na esquerda e na direita até completar 50 caracteres. <br>
 <b>nome_formatado = '{:#^50}'.format(nome)</b> fará algo semelhante.
-
 <br>
+
 Pode-se acessar o último valor de uma lista ou string se usarmos negativos, por exemplo: <b>texto[-1]</b> <br>
+
 Pode-se fatiar a string de acordo com o desejado fazendo algo como <b>texto[2:6]</b> que irá pegar do caractere 2 ao 5 pois o 6 não é incluído. <br>
+
 Pode-se pular caracteres usando <b>texto[0::2]</b> que irá do caractere 0 ao último pulando de 2 em 2. <br>
+
 Uma maneira interessante de inverter uma lista é fazer <b>lista = [ : : -1]</b>. <br>
-Algumas funções que podemos usar em listas são: <b>append, insert, pop, del, clear, extend, +, min, max e range. <b>
+
+Algumas funções que podemos usar em listas são: <b>append, insert, pop, del, clear, extend, +, min, max e range. </b> <br>
+
+<b>split(), join() e strip()</b>  são funções built-ins relacionadas a strings e listas.<br>
+
+<b> enumerate() </b>  é uma tupla que retorna, normalmente, um índice e o respectivo valor na lista. <br>
+
+O desempacotamento de lista funciona como o exemplo abaixo: <br>
+<b>lista = [1, 2, 3, 4, 5, 9] <br>
+n1, n2, *_ = lista</b> <br>
+Onde definiremos duas novas variáveis com os dois primeiros valores e guardamos o resto na variável ' _ ' por conta do uso do *. <br>
+
+A troca de valores entre variáveis é bem simples em python, podendo ser usada da forma: <br>
+<b> x, y, z = z, x, y </b> <br>
+
+O ternário no python funciona como o exemplo abaixo: <br><b>
+idade = 18 <br>
+acesso = "Pode acessar" if idade >= 18 else "Não pode acessar" </b><br>
+
+
+ 
