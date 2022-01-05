@@ -25,4 +25,6 @@ Sets são a representação de conjuntos em python. Funcionam de forma semelhant
 <b>|</b> = união <br>
 <b>&</b> = interseção <br>
 <b>-</b> = elementos apenas no set da esquerda <br> 
-<b>^</b> = todos - interseção
+<b>^</b> = todos - interseção <br>
+
+List Comprehension é uma forma diferente de construção de lista. Ela se utiliza de loopings para montar seus valores internos. Um exemplo seria: <b> lista2 = [variavel for variavel in lista1)]</b>
