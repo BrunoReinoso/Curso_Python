@@ -45,4 +45,15 @@ ordena = lambda item: item ['nota'] <br>
 alunos.sort(key=ordena)<br>
 alunos_agrupados = groupy(alunos, ordena) </b> <br>
 
-A função <b> tee() (intertools)</b> é utilizada para fazer cópias de um iterador.
+A função <b> tee() (intertools)</b> é utilizada para fazer cópias de um iterador. <br>
+
+A função <b> map() </b> trabalha em cima de uma função e iteráveis. Ou seja, ela passa determinada função em cada elemento do iterável passado como argumento. No caso de listas, é muito similar à list comprehension. Exemplo: <br> <b>
+nova_lista = map(lambda x: x*2, lista) </b> <br>
+No caso de dicionários, a utilização desta função é mais justificável. <br>
+
+A função <b> filter() </b> trabalha em cima de uma função e iteráveis. Ela retorna um iterável dado pelo resultado True retornado função passada, removendo os demais. Exemplo: <br> <b>
+nova_lista = filter(lambda p: p[p'preco'] > 50, produtos) </b> <br>
+
+A função <b> reduce() (from functools import reduce) </b> trabalha em cima de acumulador, função e iteráveis. Funciona para acumular valores. <br>
+
+<b> try, exception e finally </b> são utilizadas para rodar o código mesmo quando há um erro no mesmo. Podem ser utilizadas de diversas formas e funcionam similarmente a <b>if e else</b> em questão de identação. Além de ser possível ser utilizada com <b> else </b>.
