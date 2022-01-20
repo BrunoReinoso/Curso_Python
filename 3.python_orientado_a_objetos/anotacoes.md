@@ -65,7 +65,7 @@ Métodos ``getters`` e ``setters`` são uma forma de proteção para os atributo
 #Getter
 @property
 def preco(self):
-    return self.preco
+    return self._preco
 
 #Setter
 @preco.setter
@@ -73,5 +73,20 @@ def preco(self,valor):
     if isinstance(valor, str):
         valor = float(valor.replace('R$', ''))
 
-    self.preco = valor
+    self._preco = valor
 ```
+Obs: tomar cuidado para não causar recursividade nos getters e setters!
+
+O encapsulamento em python funciona de forma diferente de outras linguagens orientadas a objeto. No caso específicode python, ele funciona como uma forma de convenção. De forma que: <br>
+var -> publico <br>
+_var -> recomendado não mexer <br>
+__var -> fortemente recomendado não mexer <br>
+Para acessar um atributo ``__var`` pode-se usar ``_NOMECLASSE__var``. 
+
+## Relacionamento entre classes
+
+``Associação`` - acontece quando utilizamos uma classe em conjunto com outra porém sendo as duas independentes entre si. Acontece como no exemplo de "escritor" e "caneta", onde o escritor e a caneta podem ser objetos com variáveis e métodos únicos, ou seja, vistos separadamente.
+
+``Agregação`` - pode ser considerada uma associação porém pelo menos uma das classes em questão não funciona bem separadamente. Acontece como no exemplo de "carrinho de compras" e "produto", onde as duas podem existir separadamente porém a "carrinho de compras" depende, de certa forma, de produtos.
+
+``Composição`` - é uma classe que será diretamente ligada à outra, sendo usada naquela situação em específico. Acontece como no exemplo de "endereço" e "cliente", onde um cliente pode ter vários endereços e aqueles endereços são dele em específico.
