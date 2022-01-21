@@ -90,3 +90,23 @@ Para acessar um atributo ``__var`` pode-se usar ``_NOMECLASSE__var``.
 ``Agregação`` - pode ser considerada uma associação porém pelo menos uma das classes em questão não funciona bem separadamente. Acontece como no exemplo de "carrinho de compras" e "produto", onde as duas podem existir separadamente porém a "carrinho de compras" depende, de certa forma, de produtos.
 
 ``Composição`` - é uma classe que será diretamente ligada à outra, sendo usada naquela situação em específico. Acontece como no exemplo de "endereço" e "cliente", onde um cliente pode ter vários endereços e aqueles endereços são dele em específico.
+
+``Herança Simples`` - é quando uma classe herda os atributos e métodos de outra classe. Como acontece no exemplo da classe "Cliente", que herdaria a classe "Pessoa". Para isso bastaria passar como argumento "Pessoa" na hora de criação da classe "Cliente":
+```python
+class Pessoa:
+    def __init__(self, nome, idade):
+        self.nome = nome
+        self.idade = idade
+
+class Cliente(Pessoa):
+    pass
+```
+É possível reescrever/soprepor um método criado na "classe mãe" caso se crie um método de mesmo nome na classe que recebe a herança da mesma.<br>
+No caso de construtores, é importante verificar se os atributos da "classe mãe" seriam usados, pois ao criar um construtor na classe filha ele automaticamente sobrepõem o anterior. Neste caso, a solução é a seguinte:
+```python
+class ClienteVip(Cliente):
+    def __init__(self, nome, idade, sobrenome):
+        Pessoa.__init__(self, nome, idade)
+        self.sobrenome = sobrenome
+```
+``Herança Múltipla`` - é quando uma classe herda os atributos e métodos de mais de uma classe diretamente. Nesse caso é importante salientar que a ordem dos argumentos importa, tendo como ordem de prioridade da esquerda para a direita. Portanto, caso existam métodos com o mesmo nome, o python irá considerar o primeiro. Apesar dessa ressalva, esse tipo de herança funciona de forma semelhante à herança simples.
