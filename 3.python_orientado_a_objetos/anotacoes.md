@@ -110,3 +110,13 @@ class ClienteVip(Cliente):
         self.sobrenome = sobrenome
 ```
 ``Herança Múltipla`` - é quando uma classe herda os atributos e métodos de mais de uma classe diretamente. Nesse caso é importante salientar que a ordem dos argumentos importa, tendo como ordem de prioridade da esquerda para a direita. Portanto, caso existam métodos com o mesmo nome, o python irá considerar o primeiro. Apesar dessa ressalva, esse tipo de herança funciona de forma semelhante à herança simples.
+
+``Classes Abstratas`` - São classes que servem de base para criação de outras classes. Elas forçam que as classes filhas implementem determinado método abstrato que foi criado. Desta forma, ao invés de criarmos o método completo na classe mãe, este método deverá ser refeito nas classes filhas de acordo com a necessidade. Não é possível instanciar uma classe abstrata, isso retornará um erro! Para criarmos uma classe abstrata com um método abstrato devemos seguir algo como:
+```python
+from abc import ABC, abstractmethod
+
+class Exemplo(ABC):
+    @abstractmethod
+    def abstrato(self):
+        pass
+```
