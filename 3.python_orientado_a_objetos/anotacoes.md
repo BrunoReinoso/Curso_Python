@@ -120,3 +120,87 @@ class Exemplo(ABC):
     def abstrato(self):
         pass
 ```
+
+A sobrecarga de operadores serve para definirmos um novo comportamento para os operadores já conhecidos do python. Normalmente este artifício é usado quando criamos classes e gostaríamos de definir determinados comportamentos para a mesma. Para isto, é necessário criarmos um novo método para aquele operador (o comportamento dos operadores é definido por métodos especiais), por exemplo: 
+
+```python
+
+class Retangulo:
+    def __init__ (self, x, y):
+        self.x = x
+        self.y = y
+
+def __add__ (self, other):
+    novo_x = self.x + other.x
+    novo_y = self.y + other.y
+    return Retangulo(novo_x, novo_y)
+```
+Tabela para consulta:
+```python
+Operador    Método          Operação
+------------------------------------------------------
++           __add__         adição
+-           __sub__         subtração
+*           __mul__         multiplicação
+/           __div__         divisão
+//          __floordiv__    divisão inteira
+%           __mod__         Módulo
+**          __pow__         Potência
++           __pos__         Positivo
+-           __neg__         Negativo
+<           __lt__          Menor que
+>           __gt__          Maior que
+<=          __le__          Menor ou igual a
+>=          __ge__          Maior ou igual a
+==          __eq__          Igual a
+!=          __ne__          Diferente de
+<<          __lshift__      Deslocamento para a esquerda
+>>          __rshift__      Deslocamento para a direita
+&           __and__         E bit-a-bit
+|           __or__          OU bit-a-bit
+^           __xor__         OU exclusivo bit-a-bit
+~           __inv__         inversão
+```
+
+Métodos mágicos são aqueles que nos proporcionam facilidades na hora de definirmos uma classe.
+Link: https://rszalski.github.io/magicmethods/
+
+Gerenciadores de Contexto (Context Manager) são importantes para garantir que alguns erros não ocorram durante a execução de nosso código por conta do uso de recursos. Por exemplo, ao abrirmos um arquivo, devemos lembrar de fechá-lo ao acabar de fazer as devidas alterações. Normalmente, pode-se utilizar ``with open(arquivo, 'w') as exemplo`` para garantir que já fecharemos o arquivo após a modificação. Entretanto, também é possível criar gerenciadores de contexto. Por exemplo, em uma classe, podemos fazer da seguinte forma: 
+```python
+class Arquivo:
+    def __init__(self, arquivo, modo):
+        print('abrindo arquivo')
+        self.arquivo = open(arquivo, modo)
+
+    def __enter__(self):
+        print('retornando arquivo')
+        return self.arquivo
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        print('fechando arquivo')
+        self.arquivo.close()
+        # Tratei a exceção
+        return True
+
+with Arquivo('abc.txt', 'w') as arquivo:
+    arquivo.write('Alguma coisa')
+```
+Também é possível fazer algo similar com funções, usando os já vistos ``try`` e ``finally`` junto com uma biblioteca dedicada e um decorador:
+```python
+from contextlib import contextmanager
+
+@contextmanager
+def abrir(arquivo, modo):
+    try:
+        print('Abrindo arquivo')
+        arquivo = open(arquivo, modo)
+        yield arquivo
+    finally:
+        print('Fechando arquivo')
+        arquivo.close()
+
+with abrir('abc.txt', 'w') as arquivo:
+    arquivo.write('Linha 1\n')
+    arquivo.write('Linha 2\n')
+    arquivo.write('Linha 3\n')
+```
