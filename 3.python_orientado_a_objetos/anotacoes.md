@@ -204,3 +204,12 @@ with abrir('abc.txt', 'w') as arquivo:
     arquivo.write('Linha 2\n')
     arquivo.write('Linha 3\n')
 ```
+
+``Metaclasses`` são classes que criam outras classes e funcionam para definir alguns tipos de comportamento das mesmas. Para a criaçã de uma metaclasse é utilizado o ``type`` como argumento da classe.
+```python
+class Meta(type):
+    def __new__(mcs, name, bases, namespace):
+        return type.__new__(mcs, name, bases, namespace)
+```
+
+``Docstrings`` são nada mais nada menos que uma forma de comentar e explicar seu código, seja um arquivo inteiro ou uma função.
