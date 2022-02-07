@@ -213,3 +213,23 @@ class Meta(type):
 ```
 
 ``Docstrings`` são nada mais nada menos que uma forma de comentar e explicar seu código, seja um arquivo inteiro ou uma função.
+
+```python
+"""
+    Pode haver uma explicação detalhada aqui.
+"""
+def soma(a, b):
+    """a função retornará o resultado de a + b"""
+    return a + b
+```
+``Type hints`` são outra forma de documentar o código, usado muitas vezes para dar o tipo do dado que uma função irá retornar.
+```python
+def soma(a, b) -> int:
+    return a + b
+
+from typing import Union
+
+def funcao(a) -> Union[list, dict]:
+    (...)
+    return resultado
+```
