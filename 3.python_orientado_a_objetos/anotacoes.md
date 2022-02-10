@@ -233,3 +233,24 @@ def funcao(a) -> Union[list, dict]:
     (...)
     return resultado
 ```
+A utilização de ``Dataclasses`` é uma forma de facilitar na criação e utilização de classes. Por padrão, esse recurso garante algumas facilidades como por exemplo no ``__init__`` e no ``__repr__``. Além disso, é possível também alterar essas facilidades, caso o desenvolvedor deseja alterar os métodos já alterados por este método.
+```python
+from dataclasses import dataclass
+
+@dataclass
+class Pessoa:
+    nome: str
+    sobrenome: str
+```
+A leitura da documentação é válida para o aprofundamento nos tipos de alterações possíveis, tanto na classe quanto em suas variáveis e métodos. Além disso, não é recomendado utilizá-lo no caso de heranças.
+
+O ``enum`` é utilizado quando houver um conjunto de coisas que deverão ser escolhidas. Ele serve como uma classe com uma lista de valores que podem ser iterados e escolhidos, associando strings à inteiros.
+```python
+from enum import Enum, auto
+
+class Directions(Enum):
+    right: auto()
+    left = auto()
+    up = auto()
+    down = auto()
+```
