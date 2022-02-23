@@ -20,3 +20,8 @@ O módulo ``random`` nos permite trabalhar com números aleatórios. Permite ger
 
 O módulo ``string`` nos permite manipular strings de diversas formas, inclusive alterar o texto a partir de um template base.
 
+Para trabalharmos com ``zip`` é necessário importar o módulo ZipFile (``from zipfile import ZipFile``). O funcionamento é bem simples e se dá de forma semelhante a abertura de arquivos.
+
+``Web scraping`` é a coleta de dados web, uma forma de mineração de dados que permite a extração dos mesmos a partir de sites da web.
+
+Cada navegador possui sua respectiva conexão com o ``selenium``, por isso deve-se dar uma olhada como fazê-la de acordo com a situação passada.

@@ -1,0 +1,2019 @@
+1645535477536	geckodriver	INFO	Listening on 127.0.0.1:37739
+1645535477547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41477" "-no-remote" "-profile" "/tmp/rust_mozprofileOesUcA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645535478346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOesUcA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41477/devtools/browser/8d6c64de-64ca-428e-89c6-661fd853c50d
+1645535479350	Marionette	INFO	Listening on port 37347
+1645535479378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645535483140	Marionette	INFO	Stopped listening on port 37347
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645535667977	geckodriver	INFO	Listening on 127.0.0.1:36875
+1645535667983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46841" "-no-remote" "-profile" "/tmp/rust_mozprofileXDDf9A"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645535668740	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXDDf9A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46841/devtools/browser/8fce27de-0d59-4f39-ac5a-5306616121d3
+1645535669821	Marionette	INFO	Listening on port 40699
+1645535669897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645535674715	Marionette	INFO	Stopped listening on port 40699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645535857459	geckodriver	INFO	Listening on 127.0.0.1:43089
+1645535857462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45163" "-no-remote" "-profile" "/tmp/rust_mozprofile3BCgON"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645535858249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3BCgON/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45163/devtools/browser/62a29782-8f96-460d-ad51-107ac045472b
+1645535859375	Marionette	INFO	Listening on port 42225
+1645535859477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645535865579	Marionette	INFO	Stopped listening on port 42225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645535882567	geckodriver	INFO	Listening on 127.0.0.1:45333
+1645535882578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55889" "-no-remote" "-profile" "/tmp/rust_mozprofileVGqK1x"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645535883373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVGqK1x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55889/devtools/browser/049dd977-aa57-4076-bcec-b507c1a3518a
+1645535884430	Marionette	INFO	Listening on port 38495
+1645535884492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645535886459	Marionette	INFO	Stopped listening on port 38495
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645535900182	geckodriver	INFO	Listening on 127.0.0.1:60335
+1645535900186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47169" "-no-remote" "-profile" "/tmp/rust_mozprofileTARs1m"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645535900961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTARs1m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47169/devtools/browser/108deb43-433b-4d89-bff1-10c4a525c8a7
+1645535902005	Marionette	INFO	Listening on port 37709
+1645535902099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645535903973	Marionette	INFO	Stopped listening on port 37709
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_MessagePortForceClose Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://web.whatsapp.com/serviceworker.js for scope https://web.whatsapp.com/ encountered an error during installation.
+1645537262510	geckodriver	INFO	Listening on 127.0.0.1:41837
+1645537262516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44731" "-no-remote" "-profile" "/tmp/rust_mozprofileLK5gHE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645537263268	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLK5gHE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44731/devtools/browser/41154c14-02f0-4fc1-8724-0317dcaf6c26
+1645537264339	Marionette	INFO	Listening on port 37059
+1645537264439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645537270432	Marionette	INFO	Stopped listening on port 37059
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645537383109	geckodriver	INFO	Listening on 127.0.0.1:56075
+1645537383113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38417" "-no-remote" "-profile" "/tmp/rust_mozprofileHaUEa5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645537383895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHaUEa5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38417/devtools/browser/c9f0ea72-bc09-4e6b-9b63-ea2181050cb7
+1645537385010	Marionette	INFO	Listening on port 36275
+1645537385033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645537387791	Marionette	INFO	Stopped listening on port 36275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645537686352	geckodriver	INFO	Listening on 127.0.0.1:51825
+1645537686356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43215" "-no-remote" "-profile" "/tmp/rust_mozprofilezPQNJ6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645537687126	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezPQNJ6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43215/devtools/browser/6ef4a4c2-aa65-428f-b325-6d7e4e5ee6cd
+1645537688197	Marionette	INFO	Listening on port 34109
+1645537688280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645537692304	Marionette	INFO	Stopped listening on port 34109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://web.whatsapp.com/serviceworker.js for scope https://web.whatsapp.com/ encountered an error during installation.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645537773149	geckodriver	INFO	Listening on 127.0.0.1:54639
+1645537773154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47527" "-no-remote" "-profile" "/tmp/rust_mozprofilelKu5BQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645537773918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelKu5BQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47527/devtools/browser/921f6d1f-b094-446c-9dad-c234852fee89
+1645537775068	Marionette	INFO	Listening on port 46147
+1645537775173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645537776383	Marionette	INFO	Stopped listening on port 46147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645538019702	geckodriver	INFO	Listening on 127.0.0.1:57131
+1645538019713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50639" "-no-remote" "-profile" "/tmp/rust_mozprofileRjjQUA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645538020520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRjjQUA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50639/devtools/browser/9c455b11-6f93-4a71-b766-8e6e7f476b24
+1645538021721	Marionette	INFO	Listening on port 45819
+1645538022629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645538032347	Marionette	INFO	Stopped listening on port 45819
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645538549581	geckodriver	INFO	Listening on 127.0.0.1:40497
+1645538549585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58715" "-no-remote" "-profile" "/tmp/rust_mozprofilei53enj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645538550349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei53enj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58715/devtools/browser/98afd60f-701e-4462-8ebc-d38f584a4681
+1645538551506	Marionette	INFO	Listening on port 46257
+1645538551607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645538553919	Marionette	INFO	Stopped listening on port 46257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645538603536	geckodriver	INFO	Listening on 127.0.0.1:34455
+1645538603548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43291" "-no-remote" "-profile" "/tmp/rust_mozprofileAbJFZh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645538604348	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAbJFZh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43291/devtools/browser/3eb65d64-94ab-4b3d-870c-4a2f6efee794
+1645538605579	Marionette	INFO	Listening on port 44107
+1645538605664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645538615301	Marionette	INFO	Stopped listening on port 44107
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645538626056	geckodriver	INFO	Listening on 127.0.0.1:53725
+1645538626067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58685" "-no-remote" "-profile" "/tmp/rust_mozprofileVftSDl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645538626860	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVftSDl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58685/devtools/browser/c963c05c-7162-4f42-b566-9db5c417ec76
+1645538628052	Marionette	INFO	Listening on port 41453
+1645538628116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645538629522	Marionette	INFO	Stopped listening on port 41453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645538636329	geckodriver	INFO	Listening on 127.0.0.1:46801
+1645538636333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35439" "-no-remote" "-profile" "/tmp/rust_mozprofileOd0IHS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645538637113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOd0IHS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35439/devtools/browser/a445fff2-4a2b-4ff3-92fc-be852be673a1
+1645538638328	Marionette	INFO	Listening on port 34625
+1645538638366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645538640494	Marionette	INFO	Stopped listening on port 34625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645616696398	geckodriver	INFO	Listening on 127.0.0.1:45957
+1645616696903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57401" "-no-remote" "-profile" "/tmp/rust_mozprofileLFZMLU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645616697420	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLFZMLU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57401/devtools/browser/632611ed-1b0a-4b0d-a0e9-547c3c45a5df
+1645616698792	Marionette	INFO	Listening on port 33671
+1645616698824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645616702650	Marionette	INFO	Stopped listening on port 33671
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645616881246	geckodriver	INFO	Listening on 127.0.0.1:39321
+1645616881257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-data-dir=Perfil" "--remote-debugging-port" "51119" "-no-remote" "-profile" "/tmp/rust_mozprofileKP8akb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645616882145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKP8akb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51119/devtools/browser/d3bd0107-3100-4943-a83e-6d9def426fcd
+1645616883528	Marionette	INFO	Listening on port 34529
+1645616883580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645616887204	Marionette	INFO	Stopped listening on port 34529
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645617140325	geckodriver	INFO	Listening on 127.0.0.1:55693
+1645617140328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55719" "-no-remote" "-profile" "/tmp/rust_mozprofileJtxyix"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645617141078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJtxyix/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55719/devtools/browser/80bd1dce-a194-43ab-8b9c-ec16ed78dc1c
+1645617142142	Marionette	INFO	Listening on port 35273
+1645617142253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645617148775	Marionette	INFO	Stopped listening on port 35273
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645618295327	geckodriver	INFO	Listening on 127.0.0.1:50229
+1645618295330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51463" "-no-remote" "-profile" "/tmp/rust_mozprofileAPDkp0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645618296087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAPDkp0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51463/devtools/browser/d06a8d8c-a9e2-4705-9fad-3228cb2afedb
+1645618297180	Marionette	INFO	Listening on port 35725
+1645618297244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645618303085	Marionette	INFO	Stopped listening on port 35725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645618758195	geckodriver	INFO	Listening on 127.0.0.1:50271
+1645618758202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49357" "-no-remote" "-profile" "/tmp/rust_mozprofiler9TY3t"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645618758764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler9TY3t/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49357/devtools/browser/e0a78037-2fec-45de-a835-544b78642fad
+1645618760134	Marionette	INFO	Listening on port 39617
+1645618760219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645618762726	Marionette	INFO	Stopped listening on port 39617
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645618876103	geckodriver	INFO	Listening on 127.0.0.1:46661
+1645618893557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60737" "-no-remote" "-profile" "/tmp/rust_mozprofileaYSfcA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645618894070	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:60737/devtools/browser/bddbdaf4-e17f-44e9-a433-8c47ccc40ef7
+1645618895364	Marionette	INFO	Listening on port 33231
+1645618895567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 171: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 171: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 619: TypeError: context.contentWindow is null
+1645618898770	Marionette	INFO	Stopped listening on port 33231
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4500: TypeError: win is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0145,name=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2300B8,name=PBrowser::Msg_NewWindowGlobal) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015F,name=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB10025,name=PWindowGlobal::Msg_SetClientInfo) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0145,name=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB10028,name=PWindowGlobal::Msg_ExpectPageUseCounters) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230044,name=PBrowser::Msg_OnStateChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440005,name=PExtensions::Msg_StateChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A012E,name=PContent::Msg_NotifyMediaSessionUpdated) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D3,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645618915512	geckodriver	INFO	Listening on 127.0.0.1:44929
+1645618933444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50335" "-no-remote" "-profile" "/tmp/rust_mozprofileDBxIy3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645618933952	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50335/devtools/browser/b6bed185-f758-4f40-af83-0cc8fd18e5da
+1645618935095	Marionette	INFO	Listening on port 39803
+1645618935174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645618936566	Marionette	INFO	Stopped listening on port 39803
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4500: TypeError: win is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0145,name=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2300B8,name=PBrowser::Msg_NewWindowGlobal) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015F,name=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB10025,name=PWindowGlobal::Msg_SetClientInfo) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0145,name=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB10028,name=PWindowGlobal::Msg_ExpectPageUseCounters) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230044,name=PBrowser::Msg_OnStateChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440005,name=PExtensions::Msg_StateChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A012E,name=PContent::Msg_NotifyMediaSessionUpdated) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D3,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645619006221	geckodriver	INFO	Listening on 127.0.0.1:39341
+1645619006225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34513" "-no-remote" "-profile" "/tmp/rust_mozprofilercYml3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645619006994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilercYml3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34513/devtools/browser/d675e0fb-28a7-4809-915f-2a69f207262b
+1645619008078	Marionette	INFO	Listening on port 38995
+1645619008145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645619010522	Marionette	INFO	Stopped listening on port 38995
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645619032968	geckodriver	INFO	Listening on 127.0.0.1:35893
+1645619032979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51563" "-no-remote" "-profile" "/tmp/rust_mozprofileqwik8X"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645619033729	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqwik8X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51563/devtools/browser/589c10f6-6ebb-4090-ba1b-8c90ed4f0fc9
+1645619034830	Marionette	INFO	Listening on port 33615
+1645619034893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645619036784	Marionette	INFO	Stopped listening on port 33615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645619085769	geckodriver	INFO	Listening on 127.0.0.1:43605
+1645619085771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38515" "-no-remote" "-profile" "/tmp/rust_mozprofileBY9bma"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645619086546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBY9bma/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38515/devtools/browser/904c91a6-0659-4511-9fbf-76639dcc0c0b
+1645619087716	Marionette	INFO	Listening on port 35077
+1645619087788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645619088721	Marionette	INFO	Stopped listening on port 35077
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://web.whatsapp.com/serviceworker.js for scope https://web.whatsapp.com/ encountered an error during installation.
+1645619290014	geckodriver	INFO	Listening on 127.0.0.1:37635
+1645619409067	geckodriver	INFO	Listening on 127.0.0.1:56721
+1645619409072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "45695" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645619423643	geckodriver	INFO	Listening on 127.0.0.1:35507
+1645619423653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "58331" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645619424121	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:58331/devtools/browser/787e1fc6-ffcf-4434-aaab-71417ab148f5
+1645619425168	Marionette	INFO	Listening on port 37269
+1645619425271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+1645619435886	Marionette	INFO	Stopped listening on port 37269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645619495185	geckodriver	INFO	Listening on 127.0.0.1:45805
+1645619495189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "46113" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645620365911	geckodriver	INFO	Listening on 127.0.0.1:48427
+1645620365922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "38741" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645620387775	geckodriver	INFO	Listening on 127.0.0.1:56609
+1645620387786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "44529" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645620445552	geckodriver	INFO	Listening on 127.0.0.1:45659
+1645620445555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/anc5i1y8.default" "--remote-debugging-port" "43251" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645620446357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /home/bruno.teixeira/.mozilla/firefox/anc5i1y8.default/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/home/bruno.teixeira/.mozilla/firefox/anc5i1y8.default/thumbnails) because it does not exist
+DevTools listening on ws://localhost:43251/devtools/browser/d01aa52c-fb02-4ca6-986d-025eda523b7a
+1645620447723	Marionette	INFO	Listening on port 46311
+1645620447772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645620450105	Marionette	INFO	Stopped listening on port 46311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645622693264	geckodriver	INFO	Listening on 127.0.0.1:46965
+1645622693268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "57135" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645622710206	geckodriver	INFO	Listening on 127.0.0.1:44839
+1645622710210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "44989" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645622710671	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:44989/devtools/browser/85d817d1-c9fe-435c-987d-c1fc8bbb598b
+1645622711766	Marionette	INFO	Listening on port 36407
+1645622711831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645622730286	Marionette	INFO	Stopped listening on port 36407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645622742407	geckodriver	INFO	Listening on 127.0.0.1:40761
+1645622742412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "41193" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645622742949	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:41193/devtools/browser/6162ff35-9dbd-4918-8945-9da05690f214
+1645622744006	Marionette	INFO	Listening on port 33239
+1645622744035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+Extension error: TypeError: e is undefined moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js 1
+[[Exception stack
+./modules/on-uninstalled/index.js/listen/</</<@moz-extension://2270f5ba-2278-4f88-81db-6fe5f3ebc18e/background.js:1:288169
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:641:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:837:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:756:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:825:16
+]]
+1645622780898	Marionette	INFO	Stopped listening on port 33239
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645622791072	geckodriver	INFO	Listening on 127.0.0.1:43781
+1645622791076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "46427" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645622791540	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:46427/devtools/browser/2649d38b-d61e-47b1-8936-52ef253cf78c
+1645622792628	Marionette	INFO	Listening on port 41125
+1645622792702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645622818429	Marionette	INFO	Stopped listening on port 41125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645622870902	geckodriver	INFO	Listening on 127.0.0.1:56947
+1645622870913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "60739" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645622871362	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:60739/devtools/browser/1fc39002-e890-43a2-8e02-3e0a72127019
+1645622872356	Marionette	INFO	Listening on port 39227
+1645622872435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645622888611	Marionette	INFO	Stopped listening on port 39227
+1645622888657	Sync.ErrorHandler	ERROR	Some engines did not sync correctly.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4500: TypeError: win is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645622898000	geckodriver	INFO	Listening on 127.0.0.1:47677
+1645622898004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "59887" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645622898471	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:59887/devtools/browser/bb1ba803-1fff-4ca1-915c-b62510ab5cce
+1645622899556	Marionette	INFO	Listening on port 44693
+1645622899634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645622939643	Marionette	INFO	Stopped listening on port 44693
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645623194818	geckodriver	INFO	Listening on 127.0.0.1:46429
+1645623194829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "49549" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645623195270	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:49549/devtools/browser/449843b4-5c57-44d7-82f2-e32da6c98cae
+1645623196244	Marionette	INFO	Listening on port 44999
+1645623196352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645623415547	Marionette	INFO	Stopped listening on port 44999
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645623431501	geckodriver	INFO	Listening on 127.0.0.1:40407
+1645623431505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "37627" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645623431985	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:37627/devtools/browser/b3cffc79-ed9f-4431-942f-bbdbf096a40e
+1645623432975	Marionette	INFO	Listening on port 42249
+1645623433035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645623440038	Marionette	INFO	Stopped listening on port 42249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6D0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645623453199	geckodriver	INFO	Listening on 127.0.0.1:55137
+1645623453202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "55403" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645623453653	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55403/devtools/browser/f971a629-56d1-4cca-9ce7-b34773937e9b
+1645623454693	Marionette	INFO	Listening on port 38625
+1645623454735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645623463977	Marionette	INFO	Stopped listening on port 38625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 138: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645623542379	geckodriver	INFO	Listening on 127.0.0.1:34009
+1645623542389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "45289" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645623542844	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:45289/devtools/browser/27ea9e25-72c1-4a47-9e47-12d9655e34ae
+1645623543839	Marionette	INFO	Listening on port 40481
+1645623543910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645623604143	geckodriver	INFO	Listening on 127.0.0.1:59299
+1645623604146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "47063" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645623615790	Marionette	INFO	Stopped listening on port 40481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645623616969	geckodriver	INFO	Listening on 127.0.0.1:41371
+1645623616973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "55269" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645623617426	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55269/devtools/browser/bf8cd628-a53a-4907-b40e-89a5ab3598d6
+1645623618441	Marionette	INFO	Listening on port 40829
+1645623618491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645623626081	Marionette	INFO	Stopped listening on port 40829
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645623852087	geckodriver	INFO	Listening on 127.0.0.1:43929
+1645623852094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "57067" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645623852569	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:57067/devtools/browser/0bba1be4-c289-48a5-80c0-b1e9c572d578
+1645623853784	Marionette	INFO	Listening on port 39171
+1645623853834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645623903637	Marionette	INFO	Stopped listening on port 39171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645624042904	geckodriver	INFO	Listening on 127.0.0.1:41573
+1645624042916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "36525" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645624043428	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:36525/devtools/browser/2b1a156e-aefe-4dfa-b264-4c4d36cc7026
+1645624044559	Marionette	INFO	Listening on port 45071
+1645624044634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645624057021	Marionette	INFO	Stopped listening on port 45071
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645643674643	geckodriver	INFO	Listening on 127.0.0.1:53867
+1645643675147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "50353" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645643675617	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50353/devtools/browser/b8cfee5e-000c-4b03-b388-a69afae80c78
+1645643676379	Marionette	INFO	Listening on port 40405
+1645643676482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645643685848	Marionette	INFO	Stopped listening on port 40405
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 138: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645644057026	geckodriver	INFO	Listening on 127.0.0.1:36757
+1645644057037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "51311" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645644057472	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51311/devtools/browser/5f311741-3a54-45a7-9563-15c3b330253e
+1645644058392	Marionette	INFO	Listening on port 33605
+1645644058457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645644065684	Marionette	INFO	Stopped listening on port 33605
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645644375779	geckodriver	INFO	Listening on 127.0.0.1:44311
+1645644375783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "42943" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645644376198	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:42943/devtools/browser/71b13f01-4150-4a24-ab11-3bea8f4203d7
+1645644377136	Marionette	INFO	Listening on port 34861
+1645644377200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645644384429	Marionette	INFO	Stopped listening on port 34861
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645644403774	geckodriver	INFO	Listening on 127.0.0.1:57673
+1645644403785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "46397" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645644404204	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:46397/devtools/browser/76aac324-29cb-43d1-8cb8-dce93870af35
+1645644405166	Marionette	INFO	Listening on port 43587
+1645644405206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645644412566	Marionette	INFO	Stopped listening on port 43587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645644557128	geckodriver	INFO	Listening on 127.0.0.1:55701
+1645644557641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "41389" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645644558052	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:41389/devtools/browser/8a59976d-167c-4330-9e28-7abb21a73e86
+1645644558983	Marionette	INFO	Listening on port 38107
+1645644559056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645644566246	Marionette	INFO	Stopped listening on port 38107
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645644593415	geckodriver	INFO	Listening on 127.0.0.1:34727
+1645644593425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "53787" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645644593841	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:53787/devtools/browser/15275fc3-2c87-48fd-8b81-f9ba6826adc0
+1645644594736	Marionette	INFO	Listening on port 34523
+1645644594842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645644602120	Marionette	INFO	Stopped listening on port 34523
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645644742153	geckodriver	INFO	Listening on 127.0.0.1:52457
+1645644742163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "58327" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645644742584	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:58327/devtools/browser/61434a8e-5821-4e13-8250-f44196f5dbdf
+1645644743510	Marionette	INFO	Listening on port 40291
+1645644743585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645644750930	Marionette	INFO	Stopped listening on port 40291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645644934732	geckodriver	INFO	Listening on 127.0.0.1:34553
+1645644934744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "57261" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645644935191	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:57261/devtools/browser/817f9d5d-ed3a-4de0-92e9-21c60d3a37fd
+1645644936071	Marionette	INFO	Listening on port 34871
+1645644936163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645644945724	Marionette	INFO	Stopped listening on port 34871
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645644979450	geckodriver	INFO	Listening on 127.0.0.1:53571
+1645644979454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "50523" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645644979872	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50523/devtools/browser/9d3dbfc5-1c65-4101-bcfe-277571f5fcd1
+1645644980734	Marionette	INFO	Listening on port 44995
+1645644980796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645644987699	Marionette	INFO	Stopped listening on port 44995
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645645018863	geckodriver	INFO	Listening on 127.0.0.1:47749
+1645645018867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "33967" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645019308	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:33967/devtools/browser/4abba6ee-b4b6-4bc2-aa88-0c371ddc3ccb
+1645645020278	Marionette	INFO	Listening on port 43409
+1645645020385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645027663	Marionette	INFO	Stopped listening on port 43409
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645645052646	geckodriver	INFO	Listening on 127.0.0.1:42691
+1645645052651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "39161" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645053067	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:39161/devtools/browser/55e4bcd5-d117-4ced-864a-59b1a2d9eb7a
+1645645053962	Marionette	INFO	Listening on port 42117
+1645645054067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645061347	Marionette	INFO	Stopped listening on port 42117
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645645079175	geckodriver	INFO	Listening on 127.0.0.1:36633
+1645645079187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "47807" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645079608	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:47807/devtools/browser/561b16a1-0325-44b4-b393-b90f74fc53b9
+1645645080467	Marionette	INFO	Listening on port 43437
+1645645080508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645087776	Marionette	INFO	Stopped listening on port 43437
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6B0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645645225569	geckodriver	INFO	Listening on 127.0.0.1:51461
+1645645225579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "51515" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645226003	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51515/devtools/browser/9cca474b-b663-4df5-a30f-53cf950e0156
+1645645226898	Marionette	INFO	Listening on port 40349
+1645645226998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645234270	Marionette	INFO	Stopped listening on port 40349
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645645323302	geckodriver	INFO	Listening on 127.0.0.1:44105
+1645645323311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "43769" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645323757	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:43769/devtools/browser/fa096984-f93c-4280-8635-b2f0583ef64f
+1645645324739	Marionette	INFO	Listening on port 46423
+1645645324827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645332040	Marionette	INFO	Stopped listening on port 46423
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645645342762	geckodriver	INFO	Listening on 127.0.0.1:44381
+1645645342766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "34941" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645343232	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:34941/devtools/browser/aa9188d3-a7b2-408d-b1f9-374797915d40
+1645645344197	Marionette	INFO	Listening on port 44643
+1645645344280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645351541	Marionette	INFO	Stopped listening on port 44643
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645645366830	geckodriver	INFO	Listening on 127.0.0.1:49499
+1645645366834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "38165" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645367281	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:38165/devtools/browser/245c925e-b082-4576-afc2-6814f6760529
+1645645368290	Marionette	INFO	Listening on port 36305
+1645645368358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645375793	Marionette	INFO	Stopped listening on port 36305
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645645535219	geckodriver	INFO	Listening on 127.0.0.1:34669
+1645645535225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "39547" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645535645	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:39547/devtools/browser/e83b9580-30df-4ecd-9353-3ef2340f8dc1
+1645645536524	Marionette	INFO	Listening on port 32779
+1645645536547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645543758	Marionette	INFO	Stopped listening on port 32779
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645645578162	geckodriver	INFO	Listening on 127.0.0.1:33625
+1645645578172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "37863" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645578573	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:37863/devtools/browser/603c38cd-5d06-4d40-b3f8-e8170da2eb8e
+1645645579458	Marionette	INFO	Listening on port 37797
+1645645579491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645586941	Marionette	INFO	Stopped listening on port 37797
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645645604944	geckodriver	INFO	Listening on 127.0.0.1:51185
+1645645604949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "41531" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645605366	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:41531/devtools/browser/e4be6447-bf17-43de-bcd6-6df044289006
+1645645606379	Marionette	INFO	Listening on port 37445
+1645645606464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645614468	Marionette	INFO	Stopped listening on port 37445
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645645653676	geckodriver	INFO	Listening on 127.0.0.1:48979
+1645645653681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "55573" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645654107	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55573/devtools/browser/f5ded337-86be-425e-b0a0-7873c3413b6f
+1645645655066	Marionette	INFO	Listening on port 34323
+1645645655099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645662348	Marionette	INFO	Stopped listening on port 34323
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645645830312	geckodriver	INFO	Listening on 127.0.0.1:44547
+1645645830316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "53439" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645830730	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:53439/devtools/browser/5d9bc536-7468-44a7-9e09-34d9c730f95b
+1645645831699	Marionette	INFO	Listening on port 34323
+1645645831731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645838984	Marionette	INFO	Stopped listening on port 34323
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645645938857	geckodriver	INFO	Listening on 127.0.0.1:37141
+1645645938861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "34669" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645645939322	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:34669/devtools/browser/4a30d793-aa6b-4701-bc14-4c11367bda37
+1645645940175	Marionette	INFO	Listening on port 39491
+1645645940275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645645947672	Marionette	INFO	Stopped listening on port 39491
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645646101594	geckodriver	INFO	Listening on 127.0.0.1:50891
+1645646101598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "60039" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646102029	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:60039/devtools/browser/62618bf8-3727-47e3-87ea-f01da50c2f25
+1645646102893	Marionette	INFO	Listening on port 45623
+1645646102918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646110469	Marionette	INFO	Stopped listening on port 45623
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645646139266	geckodriver	INFO	Listening on 127.0.0.1:39579
+1645646139270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "59185" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646139692	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:59185/devtools/browser/a19ae76c-b2fc-48a0-93cf-9d224bf6af5c
+1645646140663	Marionette	INFO	Listening on port 35615
+1645646140690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646148161	Marionette	INFO	Stopped listening on port 35615
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6D0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645646198750	geckodriver	INFO	Listening on 127.0.0.1:50855
+1645646198761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "32809" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646199169	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:32809/devtools/browser/0ae101ed-19c7-4ee2-a825-11fd72bcd642
+1645646200161	Marionette	INFO	Listening on port 45421
+1645646200195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646207616	Marionette	INFO	Stopped listening on port 45421
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645646311086	geckodriver	INFO	Listening on 127.0.0.1:37135
+1645646311090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "46005" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646311505	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:46005/devtools/browser/68f9a7d3-70b0-4172-9eda-84ff6e71a440
+1645646312405	Marionette	INFO	Listening on port 32779
+1645646312506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646320123	Marionette	INFO	Stopped listening on port 32779
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645646424724	geckodriver	INFO	Listening on 127.0.0.1:45545
+1645646424734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "60731" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646425162	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:60731/devtools/browser/442a3865-1410-4ad4-986b-f34e344dc5cc
+1645646426029	Marionette	INFO	Listening on port 38141
+1645646426056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646434036	Marionette	INFO	Stopped listening on port 38141
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645646487731	geckodriver	INFO	Listening on 127.0.0.1:43017
+1645646487736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "51165" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645646497449	geckodriver	INFO	Listening on 127.0.0.1:40783
+1645646497460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "37451" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646497892	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:37451/devtools/browser/4986c6f4-6552-462e-9d7d-04b95c28ed24
+1645646498768	Marionette	INFO	Listening on port 40173
+1645646498874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646506570	Marionette	INFO	Stopped listening on port 40173
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645646554848	geckodriver	INFO	Listening on 127.0.0.1:37451
+1645646554858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "38387" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646563405	geckodriver	INFO	Listening on 127.0.0.1:57307
+1645646563415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "43641" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646563852	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:43641/devtools/browser/91728be1-95ad-44a0-ab23-1a8fdeebeb39
+1645646564776	Marionette	INFO	Listening on port 46617
+1645646564841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646572447	Marionette	INFO	Stopped listening on port 46617
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6B0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645646729632	geckodriver	INFO	Listening on 127.0.0.1:36605
+1645646729636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "47677" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646738483	geckodriver	INFO	Listening on 127.0.0.1:54151
+1645646738493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "55543" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646738929	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55543/devtools/browser/6b242b64-63e3-4746-ba00-159319b1e5f8
+1645646739860	Marionette	INFO	Listening on port 33273
+1645646739914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646746696	Marionette	INFO	Stopped listening on port 33273
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645646809317	geckodriver	INFO	Listening on 127.0.0.1:42039
+1645646809323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "37179" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646809763	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:37179/devtools/browser/9f3f4b01-8954-4f7c-86e5-ce23eda4b40a
+1645646810742	Marionette	INFO	Listening on port 36585
+1645646810838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646817632	Marionette	INFO	Stopped listening on port 36585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645646836832	geckodriver	INFO	Listening on 127.0.0.1:47765
+1645646836836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "51795" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646837263	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51795/devtools/browser/561b5178-0afa-46fb-b93a-85d270e1ca94
+1645646838175	Marionette	INFO	Listening on port 36627
+1645646838262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646845073	Marionette	INFO	Stopped listening on port 36627
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645646893494	geckodriver	INFO	Listening on 127.0.0.1:57303
+1645646893505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "54995" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645646893916	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54995/devtools/browser/91e140fc-7379-4200-8ec7-c02d5791226d
+1645646894761	Marionette	INFO	Listening on port 46119
+1645646894827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645646901744	Marionette	INFO	Stopped listening on port 46119
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6B0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645647179279	geckodriver	INFO	Listening on 127.0.0.1:49039
+1645647179283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "32907" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645647183343	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:32907/devtools/browser/3af41960-29a8-48b9-9524-a4e253263218
+1645647184236	Marionette	INFO	Listening on port 38039
+1645647184313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645647191188	Marionette	INFO	Stopped listening on port 38039
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645647226167	geckodriver	INFO	Listening on 127.0.0.1:33073
+1645647226178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "34075" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645647226610	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:34075/devtools/browser/42dcccea-8741-4665-b9de-0f1efebb9955
+1645647227517	Marionette	INFO	Listening on port 38277
+1645647227597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645647234401	Marionette	INFO	Stopped listening on port 38277
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6B0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645647297444	geckodriver	INFO	Listening on 127.0.0.1:53147
+1645647297455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "59767" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645647297882	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:59767/devtools/browser/64f29186-55b5-4b0d-abf5-f0be83797f94
+1645647298875	Marionette	INFO	Listening on port 43323
+1645647298969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645647305735	Marionette	INFO	Stopped listening on port 43323
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645647321683	geckodriver	INFO	Listening on 127.0.0.1:41345
+1645647321693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "47413" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645647322123	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:47413/devtools/browser/d7015d3c-95b9-4097-9c30-c88320e513e8
+1645647323059	Marionette	INFO	Listening on port 44443
+1645647323113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645647330732	Marionette	INFO	Stopped listening on port 44443
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1645647348902	geckodriver	INFO	Listening on 127.0.0.1:39995
+1645647348907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "52125" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645647349340	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:52125/devtools/browser/40cb42a5-083d-4372-af4b-b32e7fc4fb97
+1645647350281	Marionette	INFO	Listening on port 44177
+1645647350335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645647358002	Marionette	INFO	Stopped listening on port 44177
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
