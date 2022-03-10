@@ -25,14 +25,14 @@ class FirefoxAuto:
             mensagem_input = self.firefox.find_element('xpath','//div[@title="Mensagem"]')
             mensagem_input.send_keys(mensagem)
         except Exception as e:
-            print('Erro ao clicar na pessoa:', e)
+            print('Erro ao enviar mensagem:', e)
             pass
         
         sleep(3)
         self.sair()
 
 if __name__ == '__main__':
-    pessoa = 'Lari Filhote'
+    pessoa = 'Isabella Teixeira'
     data = datetime.now().strftime('%d/%m/%Y')
     mensagem = f'Essa mensagem foi enviada de forma automática no dia {data} para o meu contato {pessoa}.\n'+f'Olá, {pessoa}. ' \
     'Tudo bem com você?\n' + 'Dá pra eu ficar espamando coisa pra você agora.\n'

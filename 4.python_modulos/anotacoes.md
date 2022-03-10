@@ -25,3 +25,15 @@ Para trabalharmos com ``zip`` é necessário importar o módulo ZipFile (``from 
 ``Web scraping`` é a coleta de dados web, uma forma de mineração de dados que permite a extração dos mesmos a partir de sites da web.
 
 Cada navegador possui sua respectiva conexão com o ``selenium``, por isso deve-se dar uma olhada como fazê-la de acordo com a situação passada.
+
+``Subprocessos`` são normalmente utilizados para monitoramento de servidores e máquinas.
+
+``Threads`` são utilizadas para concluirmos tarefas simultaneamente.
+
+É possível manipular pdfs com o módulo ``PyPDF2``.
+
+É possível manipular filas, com alto desempenho, a partir do módulo ``deque`` (``from collections import deque``).
+
+Para manipularmos planilhas Excel, podemos utilizar o módulo ``openpyxl``.
+
+Utilizando o módulo ``pillow`` é possível manipular imagens de diversas formas diferentes, inclusive conversão de imagem.

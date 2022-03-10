@@ -2017,3 +2017,93 @@ JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/backgro
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1645703597635	geckodriver	INFO	Listening on 127.0.0.1:42139
+1645703598139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "34535" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645703598703	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:34535/devtools/browser/49934167-591d-415e-992f-4b38676c5cf4
+1645703599729	Marionette	INFO	Listening on port 41165
+1645703599762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645703607852	Marionette	INFO	Stopped listening on port 41165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645703668453	geckodriver	INFO	Listening on 127.0.0.1:45417
+1645703668458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "55807" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645703668939	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55807/devtools/browser/985108c7-3374-42e3-8686-5437a6e23bac
+1645703669983	Marionette	INFO	Listening on port 40159
+1645703670087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645703671126	Marionette	INFO	Stopped listening on port 40159
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645703736651	geckodriver	INFO	Listening on 127.0.0.1:44567
+1645703736662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/bruno.teixeira/.mozilla/firefox/kyn84xla.default-release" "--remote-debugging-port" "47747" "-no-remote"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645703737136	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:47747/devtools/browser/1f799858-23ce-45da-bc3e-5659de075a8a
+1645703738095	Marionette	INFO	Listening on port 37731
+1645703738197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e6982d47-c195-4536-a1df-ac70fdf11e1d/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1645703746437	Marionette	INFO	Stopped listening on port 37731
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
